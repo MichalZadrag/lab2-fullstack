@@ -33,5 +33,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            MichalZadrag/lab:ghfront1
+            michalzadrag/lab:ghfront1
           
